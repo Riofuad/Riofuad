@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riofuad&label=Profile%20views&color=0e75b6&style=flat" alt="riofuad" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🎓 Now I study at **Hasanuddin University**
 
-- 📫 How to reach me **imanmustika02@gmail.com**
+- 🌱 I’m currently learning **Android Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
