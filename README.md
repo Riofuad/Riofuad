@@ -44,13 +44,14 @@
 
 ###
 
-<img align="right" height="150" src="https://upload-os-bbs.hoyolab.com/upload/2025/05/15/437659572/89d52d122aa30795881352d33711b6c6_786577954435482653.gif"  />
+<img align="right" height="185" src="https://upload-os-bbs.hoyolab.com/upload/2025/05/15/437659572/89d52d122aa30795881352d33711b6c6_786577954435482653.gif"  />
 
 ###
   - 💡 Passionate about building innovative **Mobile** and **AI-powered applications**
   - 🔭 Focused on integrating **machine learning** into mobile experiences
-  - 🌱 Exploring AI-driven systems especially in **NLP**, **computer vision**, and **cross-platform solutions**.
+  - 🌱 Exploring AI-driven systems especially in **NLP**, **computer vision**, and **cross-platform solutions**
   - 🤝 Open to research, collaboration, and impactful open-source contributions
+  - 🎓 Bachelor of Computer Science at Hasanuddin University
   - 💻 Visit my [portfolio](www.google.com)
   - 📍 Based in Makassar, Indonesia
 ###
@@ -86,8 +87,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
