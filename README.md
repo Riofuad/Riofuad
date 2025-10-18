@@ -47,9 +47,12 @@
 <img align="right" height="150" src="https://upload-os-bbs.hoyolab.com/upload/2025/05/15/437659572/89d52d122aa30795881352d33711b6c6_786577954435482653.gif"  />
 
 ###
-
-<h4 align="left">- 💡 Passionate about building innovative Android and AI-powered applications  <br>- 🔭 Focused on integrating **machine learning** into mobile experiences  <br>- 🌱 Continuously exploring **AI-driven systems**, **real-time processing**, and **cross-platform solutions**  <br>- 🤝 Open to research, collaboration, and impactful open-source contributions <br>- 💻 Visit my portfolio<br>- 📍 Based in Makassar, Indonesia</h4>
-
+  - 💡 Passionate about building innovative **Mobile** and **AI-powered applications**
+  - 🔭 Focused on integrating **machine learning** into mobile experiences
+  - 🌱 Exploring AI-driven systems especially in **NLP**, **computer vision**, and **cross-platform solutions**.
+  - 🤝 Open to research, collaboration, and impactful open-source contributions
+  - 💻 Visit my [portfolio](www.google.com)
+  - 📍 Based in Makassar, Indonesia
 ###
 
 <br clear="both">
@@ -70,8 +73,6 @@
 </picture>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">Connect With Me!</h2>
 
