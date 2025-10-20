@@ -52,7 +52,7 @@
   - 🌱 Exploring AI-driven systems especially in **NLP**, **computer vision**, and **cross-platform solutions**
   - 🤝 Open to research, collaboration, and impactful open-source contributions
   - 🎓 Bachelor of Computer Science at Hasanuddin University
-  - 💻 Visit my [portfolio](www.google.com)
+  - 💻 Visit [my portfolio](riofuad.vercel.app)
   - 📍 Based in Makassar, Indonesia
 ###
 
